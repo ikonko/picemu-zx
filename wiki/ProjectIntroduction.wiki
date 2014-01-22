@@ -16,3 +16,14 @@ Main features distinguishing this gadget to countless number of similar devices 
   * *Handheld*. The size of this gadget is very compact and tiny. It's also equipped with battery which makes it ideal for coding basic or play games when traveling
 
 = Technical specification =
+
+Main parts of the emulator:
+  * PIC32MX795F512L - single chip MIPS 32bit microcontroller with 512K flash memory and 128K RAM
+  * Touchscreen TFT LCD 3.2" 320x240 px, SSD1289 Controller
+  * 40+ key board with classic ZX layout
+
+= Schematic =
+
+Schematics of prototype of emulator on which I develop this code:
+[coming soon]
+
