@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary What is PICEMU?
 #labels Featured,Phase-Design
 Aim of this project is to build handheld device capable of emulation several retro platforms like e.g. Sinclair ZX Spectrum, Apple I or generic CP/M machine
 
