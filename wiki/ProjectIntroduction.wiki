@@ -24,6 +24,9 @@ Main parts of the emulator:
 
 = Schematic =
 
-Schematics of prototype of emulator on which I develop this code:
-[coming soon]
+Ugly hand painted schematics of prototype of emulator on which I develop current code:
+Page 1:
+[https://code.google.com/p/picemu-zx/source/browse/wiki/picemu_schema001bw.jpg]
 
+Page 2:
+[http://code.google.com/p/picemu-zx/source/browse/wiki/picemu_schema002bw.jpg]
