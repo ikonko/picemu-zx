@@ -30,4 +30,4 @@ Main parts of the emulator:
 * 40+ key board with classic ZX layout
 
 ## Schematic
-Ugly hand painted schematics of prototype of emulator on which I develop current code:
+Ugly hand painted schematics of prototype of emulator on which I develop current code: [ long gone because of Google Code obsolescence> ]
