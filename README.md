@@ -30,4 +30,7 @@ Main parts of the emulator:
 * 40+ key board with classic ZX layout
 
 ## Schematic
-Ugly hand painted schematics of prototype of emulator on which I develop current code: [ long gone because of Google Code obsolescence> ]
+Ugly hand painted schematics of prototype of emulator on which I develop current code: [ long gone because of Google Code obsolescence ]
+
+## Video
+Short demo video - playing Ultimate JetPac on PicEmu prototype: https://www.youtube.com/watch?v=RDrbwaDlN7Q
